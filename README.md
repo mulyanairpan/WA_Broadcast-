@@ -1,5 +1,5 @@
 # WA_Broadcast-
-Gratis, Aplikasi Windows WhatsApp Broadcast,  Kirim Banyak Pesan WhatsApp Hanya dengan Sekali Klik. Load data contact dari Excell.
+Aplikasi Windows WhatsApp Broadcast,  Kirim Banyak Pesan WhatsApp Hanya dengan Sekali Klik. Load data contact dari Excell.
 
 INSTALLATION
 1. Install Google Chrome Versi 99
